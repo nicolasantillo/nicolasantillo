@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Machine Learning , Text Mining in Python and Cybersecurity. <br>🎯 Being in an environment where I can express myself and apply my skills.<br>🎲  I love sports and I'm  gym addicted</p>
+<p align="left">📚 I'm currently learning Machine Learning , Text Mining in Python and Cybersecurity. <br>🎯 Being in an environment where I can express myself and apply my skills.<br>🎲  I love sports and I'm  gym addicted. </p>
 
 ###
 
