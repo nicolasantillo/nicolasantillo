@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Nicola Santillo, a Data Science Student at LUMSA University.</p>
+<p align="left">I'm Nicola Santillo, a Data Science Student at the LUMSA University.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Machine Learning , Text Mining in Python and Cybersecurity. <br>🎯 Being in an environment where I can express myself, and put into practice all my skills that I have obtained.<br>🎲  I love sports and I'm  gym addicted</p>
+<p align="left">📚 I'm currently learning Machine Learning , Text Mining in Python and Cybersecurity. <br>🎯 Being in an environment where I can express myself and apply my skills.<br>🎲  I love sports and I'm  gym addicted</p>
 
 ###
 
