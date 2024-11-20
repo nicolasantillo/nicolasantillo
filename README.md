@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Nicola Santillo, a Data Science Student at the LUMSA University.</p>
+<p align="left">I'm Nicola Santillo, a Data Science Student at  LUMSA University.</p>
 
 ###
 
